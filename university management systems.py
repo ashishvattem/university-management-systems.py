@@ -139,4 +139,4 @@ while True:
     elif x == 6:
         break
     else:
-        print("Coose the Correct Option !")
+        print("Choose the Correct Option !")
